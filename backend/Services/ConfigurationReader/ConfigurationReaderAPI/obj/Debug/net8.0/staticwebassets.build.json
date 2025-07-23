@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "wQlfq4qg9v3ECWsmEosO7dLlNGx/xmaR3fhyYG+igak=",
+  "Source": "ConfigurationReaderAPI",
+  "BasePath": "_content/ConfigurationReaderAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

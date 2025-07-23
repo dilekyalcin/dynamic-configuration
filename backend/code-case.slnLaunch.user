@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Services\\ConfigurationReader\\ConfigurationReaderAPI\\ConfigurationReaderAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Services\\Service-A\\A-ServiceAPI\\A-ServiceAPI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

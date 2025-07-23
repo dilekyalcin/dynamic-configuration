@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Lw5V1YQenGYayxU2L33FrphUeDdXZb0Fj8V0RCh8eXE=",
+  "Source": "B-ServiceAPI",
+  "BasePath": "_content/B-ServiceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Material UI ile uyumlu bazı temel stiller */
+body {
+  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+  background-color: #f8fafc;
+}
+
+/* Dialog backdrop stilini özelleştirme */
+.MuiBackdrop-root {
+  background-color: rgba(0, 0, 0, 0.5) !important;
+}
